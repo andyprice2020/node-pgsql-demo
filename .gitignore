@@ -140,3 +140,6 @@ dist
 
 # Package-lock
 package-lock.json
+
+# .vscode
+.vscode

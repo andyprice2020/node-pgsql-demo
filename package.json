@@ -1,0 +1,27 @@
+{
+  "name": "node-pgsql-demo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "rest",
+    "api",
+    "postgresql"
+  ],
+  "author": "GD",
+  "license": "MIT",
+  "type": "commonjs",
+  "description": "Node.js Rest Apis with Express, Sequelize & M",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "pg": "^8.13.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.5"
+  }
+}
